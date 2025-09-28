@@ -1,0 +1,1 @@
+OCI runtime exec failed: exec failed: unable to start container process: exec: "C:/Program Files/Git/var/jenkins_home/secrets/initialAdminPassword": stat C:/Program Files/Git/var/jenkins_home/secrets/initialAdminPassword: no such file or directory: unknown
